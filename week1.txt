@@ -1,0 +1,2 @@
+Đây là file week1.txt
+Thuộc nhánh: week1 mà thôi
